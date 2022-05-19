@@ -29,6 +29,7 @@ If you discover a vulnerability, we would like to know about it so we can take s
 - We will keep you informed of the progress towards resolving the problem,
 - We may choose to ignore low quality reports or reports that do not follow the guidelines listed above,
 - We ask you to not publish information about the vulnerability without our written consent,
-- To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our "Hall Of Fame".
+- To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our ["Hall Of Fame"](hall-of-fame.md).
 
-This text is a derivative work of "Responsible Disclosure" by Floor Terra, used under a Creative Commons Attribution 3.0 License.
+
+_This text is a derivative work of "Responsible Disclosure" by Floor Terra, used under a Creative Commons Attribution 3.0 License._
