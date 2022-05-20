@@ -13,7 +13,7 @@ If you discover a vulnerability, we would like to know about it so we can take s
 
 ### Please do the following:
 
-- E-mail your findings to infosec@woorank.com. Encrypt your findings using our PGP key to prevent this critical information from falling into the wrong hands,
+- E-mail your findings to infosec@woorank.com. Encrypt your findings using [our PGP key](woorank-infosec.key) to prevent this critical information from falling into the wrong hands,
 - DO NOT take advantage of the vulnerability or problem you have discovered, for example by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,
 - DO NOT reveal the problem to others until it has been resolved,
 - DO NOT use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, 
