@@ -13,7 +13,7 @@ If you discover a vulnerability, we would like to know about it so we can take s
 
 ### Please do the following:
 
-- E-mail your findings to infosec@woorank.com. Encrypt your findings using [our PGP key](woorank-infosec.key) to prevent this critical information from falling into the wrong hands.
+- E-mail your findings to infosec@woorank.com. Encrypt your findings using [our PGP key](https://raw.githubusercontent.com/Woorank/responsible-disclosure/main/woorank-infosec.key) to prevent this critical information from falling into the wrong hands.
 - DO NOT take advantage of the vulnerability or problem you have discovered, for example by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data.
 - DO NOT reveal the problem to others until it has been resolved.
 - DO NOT use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties.
@@ -27,9 +27,9 @@ If you discover a vulnerability, we would like to know about it so we can take s
 - If you have followed the instructions above, we will not take any legal action against you in regard to the report.
 - We will handle your report with strict confidentiality, and not pass on your personal details to third parties without your permission.
 - We will keep you informed of the progress towards resolving the problem.
-- We may choose to ignore low quality reports, reports of vulnerabilities that are [Out of Scope](out-of-scope.md) or reports that do not follow the guidelines listed above.
+- We may choose to ignore low quality reports, reports of vulnerabilities that are [Out of Scope](https://raw.githubusercontent.com/Woorank/responsible-disclosure/main/out-of-scope.md) or reports that do not follow the guidelines listed above.
 - We ask you to not publish information about the vulnerability without our written consent.
-- To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our ["Hall Of Fame"](hall-of-fame.md).
+- To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our ["Hall Of Fame"](https://raw.githubusercontent.com/Woorank/responsible-disclosure/main/hall-of-fame.md).
 
 
 _This text is a derivative work of "Responsible Disclosure" by Floor Terra, used under a Creative Commons Attribution 3.0 License._
